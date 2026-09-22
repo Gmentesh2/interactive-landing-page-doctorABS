@@ -34,7 +34,19 @@ For the most reliable local setup, you can also run a simple static server from 
 
 ## Preview
 
+
+### Desktop design version
+
 ![Project preview](./assets/preview/previewImage.png)
+
+### Tablet design version
+
 ![Project preview](./assets/preview/previewImage-768px.png)
+
+### Mobile design version
+
 ![Project preview](./assets/preview/previewImage-490px.png)
+
+### Smaller screen size mobile version  
+
 ![Project preview](./assets/preview/previewImage-360px.png)
